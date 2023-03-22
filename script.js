@@ -64,7 +64,7 @@ function analisar(){
 
 function zerar(){
     ana.style.display = 'initial'
-    num = 0
+    num = []
     res.innerHTML = ''
     cad.innerHTML = ''
 }
