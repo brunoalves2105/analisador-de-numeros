@@ -26,5 +26,14 @@ footer {
 
 li {
     list-style: none;
-    /* text-align: center; */
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: lightgrey;
 }
